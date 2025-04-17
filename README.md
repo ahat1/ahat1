@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+
+💊 MSc Bioinformatics graduated 
+
+💻 Data scientist & Research Engineer (Python, R)
+
+Math, AI, Drug Design & Finance enthusiast
 
 <!--
 **ahat1/ahat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
